@@ -1,0 +1,10 @@
+C:\Users\rosma\source\repos\Lista de tareas\bin\Debug\Lista de tareas.exe.config
+C:\Users\rosma\source\repos\Lista de tareas\bin\Debug\Lista de tareas.exe
+C:\Users\rosma\source\repos\Lista de tareas\bin\Debug\Lista de tareas.pdb
+C:\Users\rosma\source\repos\Lista de tareas\obj\Debug\Lista de tareas.csproj.AssemblyReference.cache
+C:\Users\rosma\source\repos\Lista de tareas\obj\Debug\Lista_de_tareas.Form1.resources
+C:\Users\rosma\source\repos\Lista de tareas\obj\Debug\Lista_de_tareas.Properties.Resources.resources
+C:\Users\rosma\source\repos\Lista de tareas\obj\Debug\Lista de tareas.csproj.GenerateResource.cache
+C:\Users\rosma\source\repos\Lista de tareas\obj\Debug\Lista de tareas.csproj.CoreCompileInputs.cache
+C:\Users\rosma\source\repos\Lista de tareas\obj\Debug\Lista de tareas.exe
+C:\Users\rosma\source\repos\Lista de tareas\obj\Debug\Lista de tareas.pdb
